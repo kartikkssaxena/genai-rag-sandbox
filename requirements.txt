@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-ollama
+langchain-qdrant
+qdrant-client
+pypdf                    # For PDF loading
+tqdm
+numpy
+
+# openai

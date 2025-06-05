@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "title": "Company Leave Policy",
+        "content": "Employees are entitled to 20 days of paid leave annually. Leave requests should be submitted at least 5 working days in advance via the HR portal."
+    },
+    {
+        "id": "2",
+        "title": "Work From Home Guidelines",
+        "content": "Employees can work from home up to 2 days per week. Approval must be obtained from the direct manager. VPN usage is mandatory."
+    },
+    {
+        "id": "3",
+        "title": "Expense Reimbursement",
+        "content": "Employees can claim work-related expenses such as travel, meals, and lodging. Receipts must be submitted within 30 days of the expense via the finance portal."
+    },
+    {
+        "id": "4",
+        "title": "Tech Support",
+        "content": "For hardware or software issues, contact IT support via the internal ticketing system. Support hours are from 9 AM to 6 PM on weekdays."
+    }
+]

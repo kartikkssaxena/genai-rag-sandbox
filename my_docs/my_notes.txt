@@ -1,0 +1,6 @@
+Artificial Intelligence (AI) ethics is a field concerned with the moral behavior of artificially intelligent beings and the responsible design of AI systems. Key topics include fairness, accountability, transparency, and the prevention of bias in machine learning models.
+Artificial Intelligence refers to the simulation of human intelligence in machines that are programmed to think, learn, and make decisions. AI systems can perform tasks such as problem-solving, language understanding, image recognition, and decision-making. Common applications include virtual assistants (like Siri and Alexa), self-driving cars, recommendation systems (such as on Netflix or Amazon), and chatbots.
+AI is broadly categorized into:
+Narrow AI: Designed for specific tasks (e.g., facial recognition).
+General AI: A theoretical concept where machines can perform any intellectual task like a human.
+AI is transforming industries, improving efficiency, and opening up new possibilities, but it also raises ethical questions about privacy, job displacement, and decision-making accountability.
